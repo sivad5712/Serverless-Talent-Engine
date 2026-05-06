@@ -6,7 +6,7 @@
 [![Runtime](https://img.shields.io/badge/Runtime-V8%20JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developers.google.com/apps-script/guides/v8-runtime)
 [![Hosting](https://img.shields.io/badge/Hosting-Serverless-00C7B7)](https://cloud.google.com/serverless)
 [![Cost](https://img.shields.io/badge/Cost-%240%2Fmonth-success)]()
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+
 
 ---
 
@@ -98,7 +98,7 @@ A serverless cloud pipeline that does it all autonomously.
 
 A short walkthrough of the system in action — from starring an email on a phone to seeing the row appear in the sheet.
 
-> **▶️ [Watch the Demo on Google Drive][(https://drive.google.com/file/d/1-1jsW6jgmDmtmwiItx8Yj0VQt4ElnHdt/view?usp=sharing)**
+> **▶️ [(https://drive.google.com/file/d/1-1jsW6jgmDmtmwiItx8Yj0VQt4ElnHdt/view?usp=sharing)**
 
 <details>
 <summary>📌 How to set the share link correctly</summary>
@@ -116,7 +116,7 @@ A short walkthrough of the system in action — from starring an email on a phon
 
 A spoken explanation of the project — the problem, the engineering choices, and the tradeoffs I weighed during design.
 
-> **🎙️ [Listen to the Walkthrough on Google Drive](https://drive.google.com/file/d/1LtnnuT9_vJ8zUPf7Yn4T_5Oq1J-BfNih/view?usp=sharing)**
+> **🎙️ (https://drive.google.com/file/d/1LtnnuT9_vJ8zUPf7Yn4T_5Oq1J-BfNih/view?usp=sharing)**
 
 Topics covered:
 - 🧩 Why I picked Apps Script over a Python cron job or hosted service
@@ -130,7 +130,7 @@ Topics covered:
 
 A printable, polished setup guide with the full source code annotated end-to-end.
 
-> **📄 [Open the Detailed Guide (PDF)](https://drive.google.com/file/d/1ZUpD_bysXkgoLvEfKg5x1mPh9xzl5-H1/view?usp=sharing)**
+> **📄(https://drive.google.com/file/d/1ZUpD_bysXkgoLvEfKg5x1mPh9xzl5-H1/view?usp=sharing)**
 
 GitHub renders PDFs natively — clicking the link opens it in your browser.
 
